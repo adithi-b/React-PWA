@@ -1,0 +1,7 @@
+{
+    "singleQuote": true,
+    "trailingComma": "all",
+    "arrowParens": "always",
+    "filepath": "src/**/*.{js,jsx,ts,tsx}",
+    "tabWidth": 2
+  }
